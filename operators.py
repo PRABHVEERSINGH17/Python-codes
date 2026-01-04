@@ -33,3 +33,14 @@ m = 34<=67
 print(m)
 # This code demonstrates augmented assignment operators
 # and comparison operators such as greater than and not equal to.
+# This code demonstrates augmented assignment operators
+# and comparison operators such as greater than and not equal to.
+e = True or False #Logical opeerator OR
+print(e)
+f = True and False #Logical operator AND
+print(f)
+# Logical operators are used to combine conditional statements.
+# The 'or' operator returns True if at least one condition is True,
+# while the 'and' operator returns True only if both conditions are True.
+# End of code
+
